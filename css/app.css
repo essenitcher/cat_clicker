@@ -1,0 +1,13 @@
+
+.catImage{
+	width : 200px;
+	height : 200px;
+}
+
+li { 
+	cursor : pointer; 
+}
+
+.bold{
+	font-weight: bold;
+}
